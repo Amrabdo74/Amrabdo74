@@ -10,33 +10,50 @@ Frontend developer with 3+ years of experience building and shipping production 
 - ⚡ Focused on responsive dashboards, real-time data visualization, and clean UI/UX
 - 🌍 Based in Dubai, UAE
 - 🔗 [Portfolio](https://www.amrabdo.me)
-- 📇 [LinkedIn](https://www.linkedin.com/in/amr-abdo74) · amrabdo0102@gmail.com 
+- 📇 [LinkedIn](https://www.linkedin.com/in/amr-abdo74) · amrabdo0102@gmail.com · +971507571988
 
 ---
 
 ## 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Frontend Development:** HTML · CSS · JavaScript · TypeScript · React.js · Next.js
+**Languages & Markup:** HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
 
-**State Management:** Redux Toolkit · Zustand
+**Frameworks & Libraries:** React.js · Next.js
+
+**State Management:** Redux Toolkit · Zustand · Context API
 
 **Data Fetching:** React Query · Axios
 
-**UI Libraries & Frameworks:** Bootstrap · Material UI · Shadcn UI · Tailwind CSS
+**UI Libraries & Frameworks:** Tailwind CSS · Bootstrap · Material UI · Shadcn UI
 
 **Validation & Form Handling:** React Hook Form · Zod · Yup
 
+**Animation & Interaction:** Framer Motion · GSAP · Lenis · AOS
+
+**Internationalization:** React-i18next (RTL/LTR localization)
+
+**Backend Services & APIs:** Firebase · Google Maps API · Google APIs · RESTful APIs
+
+**UI Utilities:** React Icons · Lucide React · Swiper · Recharts · React-Player · React-Toastify · React-Helmet · React-Floating-WhatsApp · Full Calendar
+
+**Other Web Stack:** jQuery · PHP · MySQL
+
 **Version Control:** Git · GitHub
 
-**Other Tools:** ClickUp · Asana · Jira
+**Project Management:** ClickUp · Asana · Jira
 
 ---
 
@@ -77,7 +94,3 @@ Frontend developer with 3+ years of experience building and shipping production 
 ## 🌐 Languages
 Arabic · English
 
----
-
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrabdo74&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrabdo74&layout=compact)
