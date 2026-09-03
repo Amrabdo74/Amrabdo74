@@ -8,7 +8,6 @@ Frontend developer with 3+ years of experience building and shipping production 
 - 🏠 Building real-estate CRMs and multi-tenant SaaS dashboards
 - 📦 Building logistics & delivery platforms with real-time tracking
 - ⚡ Focused on responsive dashboards, real-time data visualization, and clean UI/UX
-- 🌍 Based in Dubai, UAE
 - 🔗 [Portfolio](https://www.amrabdo.me)
 - 📇 [LinkedIn](https://www.linkedin.com/in/amr-abdo74) · amrabdo0102@gmail.com 
 
