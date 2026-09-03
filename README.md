@@ -49,7 +49,7 @@ Frontend developer with 3+ years of experience building and shipping production 
 
 **UI Utilities:** React Icons · Lucide React · Swiper · Recharts · React-Player · React-Toastify · React-Helmet · React-Floating-WhatsApp · Full Calendar
 
-**Other Web Stack:** jQuery · PHP · MySQL
+**Other Web Stack:** jQuery · NodeJS
 
 **Version Control:** Git · GitHub
 
