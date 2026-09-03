@@ -10,7 +10,7 @@ Frontend developer with 3+ years of experience building and shipping production 
 - ⚡ Focused on responsive dashboards, real-time data visualization, and clean UI/UX
 - 🌍 Based in Dubai, UAE
 - 🔗 [Portfolio](https://www.amrabdo.me)
-- 📇 [LinkedIn](https://www.linkedin.com/in/amr-abdo74) · amrabdo0102@gmail.com · +971507571988
+- 📇 [LinkedIn](https://www.linkedin.com/in/amr-abdo74) · amrabdo0102@gmail.com 
 
 ---
 
