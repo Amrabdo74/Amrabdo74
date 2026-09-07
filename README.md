@@ -114,17 +114,14 @@ Jan 2023 – Nov 2023 · Cairo, Egypt
       <img src="./images/paxi.png" width="100%" alt="Paxi" />
     </td>
     <td width="32%" valign="top">
-      <h3>🚚 Paxi</h3>
+      <h3>🚗 Paxi</h3>
       <ul>
-        <li><b>Smart Logistics:</b> Delivery platform connecting people and businesses with couriers.</li>
-        <li><b>Real-Time Tracking:</b> Live tracking for deliveries and courier locations.</li>
+        <li><b>Ride-Hailing & Delivery:</b> Company website for Jordan’s ride and courier platform — daily trips, airport rides, intercity travel, and parcel delivery.</li>
+        <li><b>Live Experience:</b> Trip fare, ETA, and driver location before pickup, with cash and e-payment flows.</li>
         <li><b>Tech:</b> Next.js, TypeScript, Tailwind, GSAP, Lenis</li>
       </ul>
-      <a href="https://play.google.com/store/apps/details?id=com.newulm.paxi" target="_blank">
-        <img src="https://img.shields.io/badge/Paxi_Go-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Paxi Go" height="22" />
-      </a>
-      <a href="https://apps.apple.com/us/app/paxi-go/id6758083168" target="_blank">
-        <img src="https://img.shields.io/badge/Paxi_Go-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Paxi Go" height="22" />
+      <a href="https://paxi.company/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Paxi" height="22" />
       </a>
     </td>
     <td width="18%" align="center" valign="middle">
@@ -133,10 +130,13 @@ Jan 2023 – Nov 2023 · Cairo, Egypt
     <td width="32%" valign="top">
       <h3>🏠 Est8Core</h3>
       <ul>
-        <li><b>Real-Estate CRM:</b> Leads, deals, properties, commissions, branches, and teams.</li>
-        <li><b>Multi-Tenant SaaS:</b> Super-admin dashboard for tenants and support.</li>
+        <li><b>Real-Estate OS:</b> SaaS platform that runs the full brokerage cycle — from first lead to closed deal and commission payout.</li>
+        <li><b>Operations:</b> Auto lead distribution, commission splits, branches, teams, properties, and native RTL Arabic dashboards.</li>
         <li><b>Tech:</b> Next.js, TypeScript, React Query, Zustand, Zod</li>
       </ul>
+      <a href="https://est8core.com/ar" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Est8Core" height="22" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -144,63 +144,60 @@ Jan 2023 – Nov 2023 · Cairo, Egypt
       <img src="./images/ulmCare.webp" width="100%" alt="Ulm Care" />
     </td>
     <td width="32%" valign="top">
-      <h3>🏥 Ulm Care & Ulm Connect</h3>
+      <h3>🏥 Ulm Care</h3>
       <ul>
-        <li><b>Healthcare Hub:</b> Appointments, patient services, and medical records.</li>
-        <li><b>Ulm Connect:</b> Provider dashboard for doctors, nurses, labs, and home visits.</li>
-        <li><b>Tech:</b> React.js, Redux, React Query, Firebase, Google Maps</li>
+        <li><b>Patient Platform:</b> Healthcare website for New Ulm in Jordan — booking doctors, medical services, and home visits.</li>
+        <li><b>Care at Home:</b> Brings trusted doctors, nursing, labs, and logistics to the patient’s location.</li>
+        <li><b>Tech:</b> React.js, Tailwind, React Query, Redux, Framer Motion</li>
       </ul>
-      <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare&hl=ar" target="_blank">
-        <img src="https://img.shields.io/badge/Ulm_Care-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Care" height="22" />
-      </a>
-      <a href="https://apps.apple.com/us/app/ulm-care/id6741508500" target="_blank">
-        <img src="https://img.shields.io/badge/Ulm_Care-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm Care" height="22" />
+      <a href="https://ulmcare.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ulm Care" height="22" />
       </a>
     </td>
+    <td width="18%" align="center" valign="middle">
+      <img src="./images/ulmCare.webp" width="100%" alt="Ulm Connect" />
+    </td>
+    <td width="32%" valign="top">
+      <h3>🩺 Ulm Connect</h3>
+      <ul>
+        <li><b>Provider Platform:</b> Connects patients with doctors, hospitals, nurses, laboratories, and healthcare providers.</li>
+        <li><b>Operations:</b> Schedule management, home visits, lab tests, and map-based provider discovery.</li>
+        <li><b>Tech:</b> React.js, Redux Toolkit, Firebase, Google Maps</li>
+      </ul>
+      <a href="https://ulmconnect.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ulm Connect" height="22" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="18%" align="center" valign="middle">
       <img src="./images/ElShrouk_landary.jpg" width="100%" alt="Gassel Kai" />
     </td>
     <td width="32%" valign="top">
       <h3>🧺 Gassel Kai</h3>
       <ul>
-        <li><b>Laundry Platform:</b> Pickup, wash, iron, and delivery with bilingual dashboards.</li>
-        <li><b>Admin Panel:</b> Orders, plans, users, reports, and price calculator.</li>
+        <li><b>Laundry Platform:</b> Website and admin dashboard for Al Shrouk Laundry — wash, iron, dry cleaning, pickup, and delivery.</li>
+        <li><b>Admin Panel:</b> Orders, plans, users, regions, reports, notifications, and a public price calculator. Full Arabic / English RTL.</li>
         <li><b>Tech:</b> React.js, Vite, Tailwind, i18next, Firebase</li>
       </ul>
-      <a href="https://alshrouklaundry.top" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" height="22" />
-      </a>
-      <a href="https://play.google.com/store/apps/details?id=com.elshorouk.laundry" target="_blank">
-        <img src="https://img.shields.io/badge/Gassel_Kai-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Gassel Kai" height="22" />
-      </a>
-      <a href="https://apps.apple.com/sa/app/%D8%BA%D8%B3%D9%8A%D9%84-%D9%88%D9%83%D9%8A-gassel-kai/id6759869513?l=ar" target="_blank">
-        <img src="https://img.shields.io/badge/Gassel_Kai-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Gassel Kai" height="22" />
+      <a href="https://gasselkai.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Gassel Kai" height="22" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="18%" align="center" valign="middle">
       <img src="./images/saif_aman.png" width="100%" alt="SAIF AMAN" />
     </td>
     <td width="32%" valign="top">
       <h3>🚌 SAIF AMAN</h3>
       <ul>
-        <li><b>School Bus Tracking:</b> Live GPS map for buses, students, and trips.</li>
-        <li><b>Admin Dashboard:</b> Schools, drivers, parent requests, and alerts.</li>
+        <li><b>School Bus Tracking:</b> Admin console with live GPS fleet map, today’s trips, and student attendance.</li>
+        <li><b>Operations:</b> Schools, buses, drivers, supervisors, parent requests, and push alerts in Arabic / English.</li>
         <li><b>Tech:</b> Next.js, TypeScript, Zustand, Leaflet, Shadcn</li>
       </ul>
       <a href="https://saif-aman.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" height="22" />
-      </a>
-      <a href="https://play.google.com/store/apps/details?id=com.binSaifTransport.saifAman" target="_blank">
-        <img src="https://img.shields.io/badge/SAIF_AMAN-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="SAIF AMAN" height="22" />
-      </a>
-      <a href="https://apps.apple.com/us/app/saif-aman/id6768245808" target="_blank">
-        <img src="https://img.shields.io/badge/SAIF_AMAN-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="SAIF AMAN" height="22" />
+        <img src="https://img.shields.io/badge/Live_Website-414141?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SAIF AMAN" height="22" />
       </a>
     </td>
-    <td width="18%"></td>
-    <td width="32%"></td>
   </tr>
 </table>
 
