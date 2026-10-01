@@ -20,7 +20,7 @@
   <a href="mailto:amrabdo0102@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Amrabdo74&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile%20views-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=58A6FF" alt="Profile views" />
 </p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,firebase,git,github" alt="Tech stack" />
