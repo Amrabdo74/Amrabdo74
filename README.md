@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amr+Mohamed;Frontend+Developer" alt="Hi, I'm Amr Mohamed" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amr+Mohamed;Full-Stack+Developer" alt="Hi, I'm Amr Mohamed" />
 
-**Frontend Developer · React.js · Next.js · TypeScript**
+**Full-Stack Developer · React.js · Next.js · TypeScript**
 
 <p>
   Building and shipping production web platforms — healthcare systems,
@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Frontend Developer** with 3+ years of professional experience
+- 💻 **Full-Stack Developer** with 4+ years of professional experience
 - 🏥 Healthcare management systems, hospital portals, and medical dashboards
 - 🏠 Real-estate CRMs and multi-tenant SaaS dashboards
 - 📦 Logistics and delivery platforms with real-time tracking
@@ -61,6 +61,11 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 **UI & Styling**
 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -83,21 +88,21 @@
 
 ## 💼 Experience
 
-**🏥 Newulm** — Frontend Developer  
+**🏥 Newulm**<br>
 Jan 2025 – May 2026 · Amman, Jordan
 
 - Built a healthcare management system, hospital website, and admin dashboard
 - Developed patient portals, doctor tracking, and real-time nursing dashboards
 - Stack: **Next.js, React.js, TypeScript**
 
-**💼 BLUE Technology** — Frontend Developer  
+**💼 BLUE Technology**<br>
 Jan 2024 – Dec 2024 · Cairo, Egypt
 
 - Developed a complete ERP system with inventory, finance, and HR dashboards
 - Built reusable components and scalable frontend architecture
 - Stack: **React.js, Next.js, TypeScript**
 
-**🎓 Najez Soft** — Frontend Developer  
+**🎓 Najez Soft**<br>
 Jan 2023 – Nov 2023 · Cairo, Egypt
 
 - Built a university website and student management system
